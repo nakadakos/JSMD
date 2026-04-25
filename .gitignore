@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build files (PyInstaller)
+build/
+dist/
+*.spec
+
+# Installer and Release outputs
+Release/
+output/
+
+# Virtual environments
+.dev/
+dev/
+venv/
+.env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
