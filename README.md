@@ -45,9 +45,7 @@ Mods will be installed and backed up automatically to your `.minecraft/mods` fol
 ## Built With
 
 * Python
-* CustomTkinter
 * Modrinth API
-* PyInstaller / Inno Setup
 
 ---
 
