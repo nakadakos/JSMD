@@ -13,6 +13,14 @@ JSMD is a fast, minimal, and lightweight Fabric mod downloader and manager for M
 
 ---
 
+## Screenshots
+
+<img width="1002" height="832" alt="Screenshot 1" src="https://github.com/user-attachments/assets/19634db3-bbf4-42c8-aa64-1b5bdab98f9a" />
+<img width="1002" height="832" alt="Screenshot 2" src="https://github.com/user-attachments/assets/7e2e1a8d-5422-4fbc-aefa-92665443c48a" />
+
+---
+
+
 ## Download
 
 Download the latest version from the Releases page:
